@@ -15,3 +15,6 @@ git push -u origin main
 git branch dev
 git branch
 git checkout dev
+git add dev.md
+git commit -m "commande"
+git push -u origin dev
