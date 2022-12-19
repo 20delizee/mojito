@@ -18,3 +18,7 @@ git checkout dev
 git add dev.md
 git commit -m "commande"
 git push -u origin dev
+
+#Pour 10 personnes 
+changer de branch 
+git checkout main
