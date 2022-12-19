@@ -1,3 +1,4 @@
+Pour 1 personne:
 • 4 cl de rhum blanc
 • 2 cl de sirop de sucre de canne
 • 6 feuilles de menthe
