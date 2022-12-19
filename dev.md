@@ -9,7 +9,9 @@ git push -u origin main
 recette pour 2 personnes: 
 git add recette.md 
 git commit -m "deux personnes"
-git branch -M main
 git push -u origin main
 
 #Creation branch dev
+git branch dev
+git branch
+git checkout dev
