@@ -6,3 +6,4 @@ Pour 10 personne:
 • 200 cl d'eau gazeuse
 • 50 glaçons
 • 100 cl de gel hydroalcoolique 
+• 2 CAROLINA REAPER
